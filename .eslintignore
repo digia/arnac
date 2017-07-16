@@ -1,0 +1,4 @@
+test/acceptance/**/*.js
+test/acceptance/**/**/*.js
+test/unit/**/*.js
+test/unit/**/**/*.js
